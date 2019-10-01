@@ -1,3 +1,2 @@
 # Exercise
-lal
-fuckthisfile
+lol - Jacob
