@@ -1,2 +1,7 @@
 # Exercise
 lol
+
+
+DESTROY
+KILL
+DESTROY
